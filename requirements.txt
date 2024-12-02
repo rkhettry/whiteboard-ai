@@ -1,0 +1,5 @@
+pygame==2.6.1
+openai==1.55.3
+python-dotenv==1.0.1
+matplotlib==3.9.3
+numpy==2.1.3
